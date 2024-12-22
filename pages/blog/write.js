@@ -1,4 +1,4 @@
-
+// Write JS
 import React, { useEffect, useState, useRef } from "react";
 import { Editor } from "primereact/editor";
 import Layout from "../../components/layout/layout";
