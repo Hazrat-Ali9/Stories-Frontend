@@ -7,7 +7,7 @@ import { useQuery } from "@tanstack/react-query";
 import api from "../../components/axios.instance";
 import moment from "moment";
 import MostPopularPosts from "../../components/MostPopularPosts";
-
+// Catagories js
 export const getServerSideProps = async ({ params }) => {
     const res = await api.get(`/blog?category=${params.category}`);
     const data = await res.data;
