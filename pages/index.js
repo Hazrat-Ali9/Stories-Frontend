@@ -9,7 +9,7 @@ import BlogCard from "./blog/BlogCard";
 import SubscribeForm from "../components/SubscribeForm";
 import MostPopularPosts from "../components/MostPopularPosts";
 import LetestComments from "../components/LetestComments";
-
+// index js 
 export async function getServerSideProps() {
     // Fetch data from external API
     const res = await api.get('/blog?random=true')
