@@ -1900,4 +1900,5 @@ function Caregory() {
         </>
     );
 }
+// Catagory js
 export default Caregory;
