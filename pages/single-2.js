@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Layout from "./../components/layout/layout";
 function Single2() {
+    // Single js
     return (
         <>
             <Layout>
