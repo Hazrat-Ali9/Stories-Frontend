@@ -4,6 +4,8 @@ import PostCarousel1 from "./../components/slider/PostCarousel1";
 import VerticalCarousel from "./../components/slider/VerticalCarousel";
 import data from "../data/post.json";
 function Home2() {
+
+    // Home js
     return (
         <>
             <Layout>
