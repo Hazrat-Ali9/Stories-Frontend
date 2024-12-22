@@ -4,7 +4,7 @@ const Blog = () => {
     console.log(data);
     return (
         <>
-
+// Blog js 
 
             {data.map((item, i) => (
                 <div   className="col-lg-4 col-sm-4" key={i}>
