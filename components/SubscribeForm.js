@@ -1,7 +1,7 @@
 import React from 'react';
 import api from './axios.instance';
 import toast from 'react-hot-toast';
-
+// Subscribe From
 const SubscribeForm = () => {
     const submitHandler = async (e) => {
         try {
