@@ -9,7 +9,7 @@ import toast from "react-hot-toast";
 function Login() {
     const auth = getAuth(app);
     const navigate = useRouter();
-
+  // page login
     const submitHandler = async (e) => {
         e.preventDefault()
         const email = e.target.email.value
