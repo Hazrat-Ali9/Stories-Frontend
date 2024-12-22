@@ -499,5 +499,6 @@ function Typography() {
         </>
     );
 }
+//page typography 
 export default Typography;
 
