@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { useEffect, useState } from "react";
+// id js
 import Layout from "../../components/layout/layout";
 import data from "../../data/post.json";
 import comments from "../../data/comments.json";
