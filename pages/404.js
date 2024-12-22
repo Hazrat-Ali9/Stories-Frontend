@@ -57,4 +57,5 @@ function Custom404() {
         </>
     );
 }
+// 404 js
 export default Custom404;
