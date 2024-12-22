@@ -2,6 +2,7 @@ import Link from "next/link";
 import Layout from "./../components/layout/layout";
 import data from "../data/post.json";
 function CaregoryBig() {
+    // Catagory Big
     return (
         <>
             <Layout>
