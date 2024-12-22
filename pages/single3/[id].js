@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Layout from "../../components/layout/layout";
 import data from "../../data/post.json";
 import comments from "../../data/comments.json";
-
+// Single Vendor
 const SingleVendor = () => {
 
     console.log(comments[1].reply[0]);
