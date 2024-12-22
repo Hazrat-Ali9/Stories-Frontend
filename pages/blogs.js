@@ -6,7 +6,7 @@ import api from "../components/axios.instance";
 import MostPopularPosts from "../components/MostPopularPosts";
 import LetestComments from "../components/LetestComments";
 import moment from "moment";
-
+// Blog js
 
 export async function getServerSideProps(context) {
     // Fetch data from external API
