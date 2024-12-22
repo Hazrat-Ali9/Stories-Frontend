@@ -1253,4 +1253,6 @@ function PageSearch() {
         </>
     );
 }
+
+// Page Search
 export default PageSearch;
