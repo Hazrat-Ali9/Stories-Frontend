@@ -14,7 +14,7 @@ function Register() {
             createUserWithEmailAndPassword(auth, email, password)
                 .then(async (userCredential) => {
                     const user = result.user;
-
+ // page Register
                     const newUser = {
                         name: user.displayName,
                         email: user.email,
