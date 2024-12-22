@@ -157,5 +157,5 @@ function About() {
         </>
     );
 }
-// Page Author
+// Page About
 export default About;
