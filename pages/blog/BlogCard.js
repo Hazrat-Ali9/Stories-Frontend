@@ -2,7 +2,7 @@ import { Button } from 'antd';
 import moment from 'moment';
 import Link from 'next/link';
 import React from 'react';
-
+// blog card js
 const BlogCard = ({ item, author, home, isMyProfile }) => {
     if (!item) {
         return null
