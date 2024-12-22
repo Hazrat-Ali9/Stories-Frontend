@@ -10,7 +10,7 @@ import "../public/assets/css/responsive.css";
 import 'metismenujs/style';
 import './blog/blog.css'
 import {
-
+// app js
     QueryClient,
     QueryClientProvider,
   } from '@tanstack/react-query'
