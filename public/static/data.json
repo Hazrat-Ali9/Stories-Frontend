@@ -1,0 +1,36 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "image": "/assets/imgs/news/news-7.jpg",
+        "category": "fashion",
+        "title": "Put Yourself in Your Customers Shoes",
+        "date": "17 july",
+        "colorVariant": "danger",
+        "readTime": 8,
+        "views": 12,
+        "text": "Graduating from a top accelerator or incubator can be as career-defining for a startup founder as an elite university diploma. The intensive programmes, which…"
+    },
+    {
+        "userId": 2,
+        "id": 2,
+        "image": "/assets/imgs/news/news-9.jpg",
+        "category": "travel",
+        "title": "Life and Death in the Empire of the Tiger",
+        "date": "7 August",
+        "readTime": 8,
+        "views": 25,
+        "text": "Graduating from a top accelerator or incubator can be as career-defining for a startup founder as an elite university diploma. The intensive programmes, which…"
+    },
+    {
+        "userId": 2,
+        "id": 2,
+        "image": "/assets/imgs/news/news-11.jpg",
+        "category": "lifestyle",
+        "title": "When Two Wheels Are Better Than Four",
+        "date": "7 August",
+        "readTime": 8,
+        "views": 25,
+        "text": "Graduating from a top accelerator or incubator can be as career-defining for a startup founder as an elite university diploma. The intensive programmes, which…"
+    }
+]

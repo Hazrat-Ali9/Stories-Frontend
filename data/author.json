@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"img": "author.jpg",
+		"title": "Steven",
+		"author": "Steven",
+		"desc": "Hi, Im Stenven, a Florida native, who left my career in corporate wealth management six years ago to embark on a summer of soul searching that would change the course of my life forever."
+	},
+	{
+		"id": 2,
+		"img": "author.jpg",
+		"title": "Steven",
+		"author": "Steven",
+		"desc": "Hi, Im Stenven, a Florida native, who left my career in corporate wealth management six years ago to embark on a summer of soul searching that would change the course of my life forever."
+	},
+	{
+		"id": 3,
+		"img": "author.jpg",
+		"title": "Steven",
+		"author": "Steven",
+		"desc": "Hi, Im Stenven, a Florida native, who left my career in corporate wealth management six years ago to embark on a summer of soul searching that would change the course of my life forever."
+	}
+]
