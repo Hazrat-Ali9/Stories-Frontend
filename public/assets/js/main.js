@@ -1,7 +1,7 @@
 (function($) {
     'use strict';
 
-    // Page loading
+    // Page Loading
     $(window).on('load', function() {
         $('.preloader').delay(450).fadeOut('slow');
     });
