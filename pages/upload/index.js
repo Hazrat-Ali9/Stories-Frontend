@@ -17,6 +17,7 @@ const UploadPage = () => {
             return res.data
         }
     })
+    // Upload js
     const deleteImage = async (id) => {
         try {
             const res = await api.put(`/upload/delete`, {
