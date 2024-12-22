@@ -4,6 +4,7 @@ import HomeSlider3 from "./../components/slider/HomeSlider3";
 import PostCarousel1 from "./../components/slider/PostCarousel1";
 import data from "../data/post.json";
 function Home3() {
+    // Home 3 js
     return (
         <>
             <Layout>
