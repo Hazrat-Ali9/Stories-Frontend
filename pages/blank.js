@@ -8,4 +8,5 @@ function Index() {
         </>
     );
 }
+// Blank js
 export default Index;
