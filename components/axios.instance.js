@@ -2,7 +2,7 @@ import axios from "axios";
 import { getAuth, onAuthStateChanged } from "firebase/auth";
 import app from "../util/firebase.init";
 
-
+// axios instance
 // const local = 'http://localhost:4000/api/v1'
 const local = 'https://blogsite-backend-one.vercel.app/api/v1'
 
