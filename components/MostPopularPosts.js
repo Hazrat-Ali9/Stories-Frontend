@@ -4,7 +4,7 @@ import api from './axios.instance';
 import Link from 'next/link';
 import moment from 'moment';
 import { Spin } from 'antd';
-
+// most popular posts
 const MostPopularPosts = ({ user }) => {
     const { data: post, isLoading } = useQuery({
         queryKey: ['popular-post'],
