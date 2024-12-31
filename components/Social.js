@@ -5,7 +5,7 @@ import api from "./axios.instance";
 import toast from "react-hot-toast";
 const Social = () => {
     const auth = getAuth(app);
-
+// Social js
     const loginWithFacebook = () => {
 
     }
