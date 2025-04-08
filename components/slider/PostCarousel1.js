@@ -2,6 +2,7 @@ import Link from "next/link";
 import React from "react";
 import Slider from "react-slick";
 import data from "../../data/post.json";
+// Post Carousel
 const PostCarousel1 = () => {
     const settings = {
         dots: true,
