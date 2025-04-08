@@ -2,6 +2,7 @@ import Link from "next/link";
 import React from "react";
 import Slider from "react-slick";
 import data from "../../data/post.json";
+// Home Slider 
 
 const HomeSlider3 = () => {
     const settings = {
