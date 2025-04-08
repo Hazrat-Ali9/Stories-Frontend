@@ -2,7 +2,7 @@ import Link from "next/link";
 import { useState } from "react";
 import Slider from "react-slick";
 import data from "../../data/post.json";
-
+// Vertical Carosel
 export default function VerticalCarousel() {
     const [nav1, setNav1] = useState();
     const [nav2, setNav2] = useState();
